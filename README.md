@@ -10,5 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,github,vscode,webpack)](https://skillicons.dev)
 
-## What I'm Doing
-Right now, I am building skills through the Odin Project and personal projects! I am also in the process of learning Python, NumPy, and Pandas!
+## What I'm Working On
+- [**Game Tools 🎲**](https://viratae.github.io/gameTools/wingspan.html) - a work-in-progress personal project built around board games I'm a fan of. Currently, there is a scoring tool with custom weighting and players around the game *Wingspan*
+- [**Task King 👑**](https://viratae.github.io/todo/) - a to-do app built with HTML, CSS, JS, and Webpack with persistence
+- [**Better Weather ⛅️**](https://viratae.github.io/weather/) - a dashboard-based weather app built with HTML, CSS, JS, and the Visual Crossing API
